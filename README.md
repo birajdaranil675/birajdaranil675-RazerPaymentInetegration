@@ -1,1 +1,1 @@
-# RazerPaymentInetegration
+# RazorPayInetegration
